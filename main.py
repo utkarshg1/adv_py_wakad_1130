@@ -6,6 +6,7 @@ def simple_interest(p: float, n: float, r: float) -> tuple[float, float]:
     a = p + i
     return i, a
 
+
 def main():
     p = float(input("Principal in INR : "))
     n = float(input("Number of Years : "))
