@@ -1,0 +1,4 @@
+My Name is Utkarsh Gaikwad
+I work as a data scientist
+This line is added via append mode
+This is another line added
